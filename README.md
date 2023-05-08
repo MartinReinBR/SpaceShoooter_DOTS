@@ -11,4 +11,4 @@ The enemies and projectiles are entities that consist of Tags and component to m
 The player uses a combination of Monobehaviors, tags and componets. Movement, shooting, health and score are handled by the monobeahviours but collision are handled by systems.
 The shooting system uses an adjustable Pooling system to reuse projectiles.
 
-In the built version there are 14000 enemies spawning, and moving at different speeds. 
+In the built version there are 14000 enemies spawning, and moving at different speeds. Get as high score as possible fore you die. health and score are shown in the top right corner.
